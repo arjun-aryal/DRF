@@ -1,3 +1,3 @@
-# Auth
+# DRF
 
 Playing with DRF
