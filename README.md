@@ -1,3 +1,3 @@
 # Auth
 
-Authentication and Refreshing Token Implementation
+Playing with DRF
